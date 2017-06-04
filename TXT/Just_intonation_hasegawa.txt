@@ -1,0 +1,77 @@
+Just intonation
+
+												Robert Hasegawa
+
+												
+
+												Just intonation is a system of tuning musical intervals based on simple ratios between the frequencies of their constituent pitches. For voices and most musical instruments, just intonation minimizes the acoustical interference between simultaneous sounds and leads to the highest degree of blending and consonance. Though its roots are ancient, twentieth-century composers revived just intonation for new aesthetic ends.
+
+												
+
+												The idea of using ratios to quantify interval size originated in ancient Greek music theory: in Pythagorean intonation, all intervals are measured with ratios made solely of multiples of the integers 2 and 3. In response to the growing use of thirds and sixths in the fifteenth century, Renaissance theorists expanded Pythagorean intonation to include multiples of 5, replacing the tense Pythagorean major third (81/64) with the mellifluous just major third (5/4). (In all ratio-based tunings, simpler ratios produce smoother, more consonant intervals.) Musicologists typically reserve the term “just intonation” for this Renaissance system, though it is also used metonymically to refer to all ratio-based tuning systems. 
+
+												
+
+												Though just intonation offers the greatest acoustical purity, it often led to practical difficulties for keyboard instruments with a finite number of keys. For example, tuning the white keys of the keyboard to a just C major scale results in a severely out-of-tune D major scale. To avoid these problems, theorists and instrument builders adopted various types of temperament: tempered tunings (such as the familiar twelve-tone equal temperament of the modern piano) make small adjustments to just intonation ratios to allow greater flexibility in changing keys. Though tempered tunings became the norm starting in the eighteenth century, scholars in the nineteenth and early twentieth century including Hugo Riemann and Hermann von Helmholtz turned back to just intonation in an attempt to ground musical practice in simple acoustical phenomena.
+
+												
+
+												The key figure behind the twentieth-century revival of just intonation was American composer Harry Partch (1901-74). Partch railed against the “prison bars” of the standard, equal-tempered piano keyboard, and sought a musical practice rooted in eternal acoustical truths rather than the inherited compromises of tempered tunings. Partch defined previous ratio-based tunings by their “limit,” the highest prime factor in their ratios: thus Pythagorean intonation has a limit of 3, and Renaissance just intonation a limit of 5. Partch’s extended just intonation uses a limit of 11, introducing a number of new intervals unfamiliar to Western ears. To perform these new intervals, Partch invented a remarkable variety of new instruments, including the exotically named Cloud Chamber Bowls, Zymo-Xyl, and Spoils of War.
+
+												
+
+												Composer Ben Johnston (1926-) worked briefly with Partch as a musical assistant, and later adapted Partch’s extended just intonation to work with traditional staff notation and standard instruments. Some of his string quartets go beyond Partch’s 11-limit to include all prime numbers up to 31. Partch’s also influenced Lou Harrison (1917-2003), through his account of his theoretical innovations, Genesis of a Music. Harrison’s music draws on Asian inspirations, and he pioneered the application of just intonation tunings for the gamelan (an Indonesian percussion-based ensemble). 
+
+												
+
+												In the 1960s and 70s, just intonation concepts began to interact with other musical developments. La Monte Young (1935-), a major force in the emerging minimalist movement, associated the ratio tunings of just intonation with the carefully tuned ragas of traditional Indian singing, which he studied with the influential Pandit Pran Nath. In Young’s massive improvised work The Well-Tuned Piano (1964-), just intervals based on the perfect fifth (3/2) and natural seventh (7/4) are performed on a retuned Bösendorfer grand piano. James Tenney (1934-2006) brought together just intonation with an experimental aesthetic inspired by John Cage, drawing on controlled randomness, electronic delay systems, and computer-aided algorithmic composition. Other American composers working in just intonation today include Pauline Oliveros, Ezra Sims, Toby Twining, and Glenn Branca.
+
+												
+
+												Although contemporary just intonation has been largely an American development, related trends have also emerged in Europe. Karlheinz Stockhausen’s Stimmung (1968), based on a sustained just-intonation seventh chord, was highly influential on composers of the French “spectral” school, Gérard Grisey and Tristan Murail. Though these composers did not consistently demand precise ratio tuning, their compositions often took the overtone series as a point of departure. In contemporary European composition, composers such as György Ligeti, Georg Friedrich Haas, and Hans Zender use just intonation concepts in their works, often in combination with other, more standard tunings.
+
+
+
+[721 words]
+
+
+
+Writings by composers
+
+Partch, Harry. Genesis of a Music: An Account of a Creative Work, Its Roots, and Its Fulfillments, second edition. New York: Da Capo Press, 1974.
+
+Johnston, Ben. “Maximum Clarity” and Other Writings on Music. Edited by Bob Gilmore. Urbana, Ill.: University of Illinois Press, 2006.
+
+Harrison, Lou. Lou Harrison’s Music Primer. New York: C.F. Peters, 1971.
+
+Tenney, James. “John Cage and the Theory of Harmony.” In Soundings 13: The Music of James Tenney, 55-83. Santa Fe, New Mexico: Soundings Press, 1984. Reprinted in Writings about John Cage, edited by Richard Kostelanetz, 136-61. Ann Arbor, Michigan: University of Michigan Press, 1993.
+
+
+
+Theoretical and analytical works
+
+Doty, David B. Just Intonation Primer. San Francisco: The Just Intonation Network, 1993.
+
+Gann, Kyle. “La Monte Young’s The Well-Tuned Piano.” Perspectives of New Music 31/1 (Winter 1993): 134-162.
+
+Gilmore, Bob. "Changing the Metaphor: Ratio Models of Musical Pitch in the Work of Harry Partch, Ben Johnston, and James Tenney." Perspectives of New Music 33/1-2 (1995): 458-503.
+
+———. “The Climate Since Harry Partch.” Contemporary Music Review 22/1-2 (2003): 15-33.
+
+Shinn, Randall. “Ben Johnston’s Fourth String Quartet.” Perspectives of New Music 15/2 (Spring/Summer 1977): 145-73.
+
+Wannamaker, Robert. “The Spectral Music of James Tenney.” Contemporary Music Review 27/1 (2008): 91-130.
+
+
+
+Biographies and single-composer studies
+
+Gilmore, Bob. Harry Partch: a Biography. New Haven: Yale University Press, 1998.
+
+Grimshaw, Jeremy. Draw a Straight Line and Follow It: The Music and Mysticism of La Monte Young. Oxford: Oxford University Press, 2011.
+
+Miller, Leta and Fredric Lieberman. Lou Harrison: Composing a World. New York: Oxford University Press, 1998.
+
+von Gunden, Heidi. The Music of Pauline Oliveros. Metuchen, New Jersey: Scarecrow Press, 1983.
+
+———. The Music of Ben Johnston. Metuchen, New Jersey: Scarecrow Press, 1986.

@@ -1,0 +1,39 @@
+STEPS FOR WORKING WITH GIT
+
+
+
+1. Go to the working directory for the repo
+
+Type ‘cd’ then drag the REM folder into Terminal, so it reads: CD Users/…
+
+
+
+2. type “git status” to check the status of the repo
+
+
+
+3. type “git pull” to pull changes made by others to the repo
+
+
+
+4. type “git add” then drag the file you’ve change into Terminal, so it reads: git add Users/…
+
+
+
+5. Do this for each file you’ve changed
+
+
+
+6. type git commit –m “[name of commit]” to create the commit for these edited files. For example: git commit –m “today’s changes”
+
+
+
+7. type “git push origin master” to push this commit to the repository.
+
+
+
+8. Enter your login credentials
+
+
+
+9. All done!

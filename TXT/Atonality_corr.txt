@@ -1,0 +1,86 @@
+
+Atonality
+
+Arnold Whittall
+
+Atonality: literally, the complete absence of tonality in a musical
+composition.
+
+In music, it is often claimed that modernism stands in opposition to
+classicism or romanticism, and does so even though  as has also frequently
+been argued  the development of music from the later BEETHOVEN (1820s) to
+early SCHOENBERG (1900s) sees elements of modernist disjunction emerging
+from, interacting with, and sometimes conflicting with the more organically
+integrated elements of classicism and romanticism.  By the same token,
+atonality  the absence of key  would clearly stand in opposition to
+tonality  the presence of key, even if music from the later Beethoven to
+early Schoenberg involved the increasing enrichment of diatonic tonality
+with chromatic elements that, particularly from LISZT and WAGNER onwards,
+tended to undermine as much or even more than to reinforce the structural
+stability of diatonic fundamentals.
+
+      Music theorists since SCHOENBERG have been divided over the validity
+of atonality as a meaningful concept.  SCHOENBERG himself rejected the
+term on the grounds of its negative connotations, and his own music
+demonstrates how difficult it is in practice to make hard and fast
+distinctions between compositions in which no suggestion of tonal
+formations of any kind can be distinguished and those which demonstrate the
+kind of passing allusions that SCHOENBERG sought to identify with such
+terms as suspended tonality and pantonality.
+
+      Theorists who use atonality tend to do so either because it is a
+conveniently pithy term whose definition can involve constructive critique,
+or because their understanding of tonality is based on the rigorously
+diatonic concepts of HEINRICH Svchenker; from that perspective it certainly
+makes sense to define all compositions that cannot be shown to conform to
+Schenkerian principles as atonal.  There has nevertheless been considerable
+support for attempting to distinguish between unambiguously atonal
+compositions, such as the third of STOCKHAUSENs KLAVIERSTCKE (1952), and
+works like SCHOENBERGs STRING QUARTET NO. 4 (1936) which, as Richard Kurth
+and others have argued, use twelve-tone technique in ways which fit well
+with what seems to have been Schoenbergs own understanding of suspended
+tonality or pantonality.  The way in which Schoenbergs first movement ends
+with a cadence involving elements of D minor and B flat major triads
+certainly cannot be matched by anything in the STOCKHAUSEN piano piece.
+Whether or not a systematic analytical method can ever be devised for
+definitively proving the presence of such post-tonal elements, it seems
+that the use of essentially hierarchical modes of thought by many leading
+modernist composers in the years since 1960 lends support to the view that
+atonality, while not impossible, is not simply to be equated with the
+absence of the kind of tonal structures that predominated in music before
+the twentieth century.
+
+
+
+Further reading
+
+Perle, George, Serial Composition and Atonality (Berkeley, Los Angeles and
+London, 1962, 4/1977).   A pioneering analytical study of differences and
+similarities between free atonality and twelve-tone composition.
+
+Forte, Allen, The Structure of Atonal Music (New Haven, 1973).  The first
+book-length formulation of a systematic technical basis for the analysis of
+atonal (as distinct from twelve-tone) pitch formations.
+
+Straus, Joseph N., Introduction to Post-Tonal Theory (Englewood Cliffs, NJ,
+1990, 3/2005).  Outlines a comprehensive course of study exploring the post-
+tonal music of Schoenberg, Berg, Webern, Bartk and Stravinsky.
+
+Kurth, Richard, Suspended Tonalities in Schoenbergs Twelve-Tone
+Compositions, Journal of the Arnold Schoenberg Center, 3 (2001).  A
+concise exposition of the issues involved in Schoenbergs rejection of the
+term atonality, and his concepts of suspended tonality, or pantonality.
+
+Roig-Francol, Miguel A., Understanding Post-Tonal Music (New York, 2008).
+Like Straus 1990/2005, this is essentially a text-book.  It includes a wide
+range of analytical summaries, ranging from Debussy and Stravinsky to Ads
+and Saariaho.
+
+Schuijer, Michiel, Analyzing Atonal Music (Rochester NY, 2008).  As its
+subtitle indicates, this is an extended critical and historical study of
+the literature relating to pitch-class set theory and its contexts.
+
+
+
+
+

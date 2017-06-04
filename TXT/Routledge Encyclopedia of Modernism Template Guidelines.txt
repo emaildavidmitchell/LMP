@@ -1,0 +1,194 @@
+Routledge Encyclopedia of Modernism
+Entry submission template
+
+
+Introduction
+
+Purpose
+
+Routledge has developed a Word template for contributors to use when creating and submitting entries for the Routledge Encyclopedia of Modernism, in order to facilitate the transformation of the content into XML for publishing online. The following guidelines give an overview of the template and how to use it.
+
+A Note on XML
+
+Content to be published online as an HTML webpage is held in an XML document. XML documents are designed to hold text and certain supporting information about what type of content the text is, e.g. Heading, Normal (body) text, a List, a Caption, etc.
+
+Please note that formatting information such as fonts, font size, text colour and text alignment is NOT kept in an XML document, so do not apply any such formatting to the text you enter into the template. Only the following formatting CAN be used:
+
+Line Break, Paragraph, Bold, Italic, Underline, Strikethrough, Hyperlink
+
+Any other formatting you apply to your text will be lost when it is converted to XML. 
+
+What you need
+
+Microsoft Word (Mac or Windows).
+
+The Template
+
+Open the Routledge Encyclopedia of Modernism Word Template in Word (simply double-click to open if Microsoft Word is your default word processor). You do not have to install anything or alter any of your settings – the template is ready to use as soon as you open it.
+
+Using the Template
+
+As soon as you open the template for the first time, click File / Save As and save the document under the name of the entry you are creating. This will ensure you do not save over the template. 
+
+
+
+
+
+The Styles
+
+
+When writing your entry you can apply a number of “Styles” to the text to help you structure the content.
+
+The template has been designed to make use of Word’s inbuilt functionality wherever possible. The following Styles have been created for you to use when authoring content in the template:
+
+Style
+
+Description
+
+Author Note
+
+Use this style to denote text that is not part of the main text, such as an explanatory note. This Style does not need to be applied to footnotes, endnotes or captions.
+
+Block Quote
+
+Use this style to indicate a block quotation. 
+
+Normal
+
+This is the default Style and should be applied to the main text when no other Style is applied.
+
+Heading 1
+
+Use this Style for a top level heading
+
+Heading 2
+
+Use this Style for a second level sub heading
+
+Heading 3
+
+Use this Style for a third level sub heading
+
+
+Applying the Styles
+
+To apply a style, click on one of the Styles in the Word menu bar as shown in the above screenshot then type your text. Alternatively, you can write your text first, then select it (click and drag the cursor over the text) then click the desired Style. 
+
+Please note that the visual aspect of the Styles applied to the text is for your reference only, to indicate to you that a Style has been applied. The visual aspect of the style will not be used when the text is converted into XML and published online. For example, text that has been styled as Author Note appears dark green and in bold in the template, but will not be green and bold on the finished product. 
+
+Please note that you can only use each Style for the specific purpose expressed in the table above.
+
+Please note that all text must have a Style applied to it. 
+
+Additional Styles
+
+In additional to the Styles in the above table, the following other Styles can be applied:
+
+List, Caption, Footnote, Endnote
+
+These styles can be applied in the normal way using the inbuilt Word functionality. 
+
+Unsupported Styles
+
+Please note that the following are NOT supported in the template:
+
+Tables, shapes, pictures, clip / word art, charts, headers, footers, page numbers, text boxes, graphs, equations, symbols, any Page Layout elements, table of contents, indexes, tables of authorities, any Review elements.
+
+If any of these styles are applied they will be removed when the document is converted into XML. 
+
+Adding Multimedia Files
+
+Images, audio or video content should be supplied separately when you submit your entry (see ‘Submitting your Entry’ below. No other media types are supported.
+
+You can indicate in the body of your text where you want the media file to be included in relation to the text by referencing the file name as follows:
+
+File: fileName.ext
+
+This should appear on a separate line, e.g.
+
+Joyce was born into a middle class family in Dublin, where he excelled as a student at the Jesuit schools Clongowes and Belvedere, then at University College Dublin.
+
+File: jamesJoyce_portrait.jpg
+
+In his early twenties he emigrated permanently to continental Europe, living in Trieste, Paris and Zurich.
+
+Please note that media files can only be added to the Main Text section of the template.
+
+Captions can be added to the media file by selecting the ‘File: fileName.ext’ text (click and drag over the text) then clicking ‘Insert Caption’ in the Word menu bar. In the Insert Caption dialogue box type in your caption then tick the ‘Exclude label from caption’ box and click OK, e.g.
+
+File: jamesJoyce_portrait.jpg
+
+1 A portrait of James Joyce c. 1981
+
+
+Special Characters
+
+Special characters can be typed in as long as your version of Word can support them, e.g.
+
+Beijing (pron.: /beɪˈdʒɪŋ/; Chinese: 北京; pinyin: Běijīng, [peɪ˨˩ t͡ɕiŋ˥]),
+
+However, if your version of Word does not support the special characters you want to include, please supply them separately as image files (see ‘Adding Multimedia Files’).
+
+Citations
+
+Citations can be added using Word’s inbuilt Insert Citation functionality. When adding citations please provide as much detail as possible in the Manage Sources dialogue box (e.g. Author, Title, Year, City, Publisher) so that the citation can be converted into an HTML link during XML conversion.
+
+This is the Manage Sources dialogue box:
+
+
+Citations can only be added to the Main Text section of the template.
+
+Further Reading
+
+You can add a list of resources for ‘Further Reading’ using Word’s inbuilt Insert Citation functionality.
+
+Click into the Further Reading section of the template (see ‘The Templates Sections’ below), then click ‘Insert Citation’ in the Word menu bar. Please provide as much detail as possible in the Manage Sources dialogue box (e.g. Author, Title, Year, City, Publisher) so that the resource can be converted into an HTML link during XML conversion.
+
+To add a second resource, make sure your cursor is still clicked into the Further Reading section, then add a line break and click Insert Citation again to repeat the process. You can do this as many times as you want.
+
+Please note that the Word template is only using Word’s inbuilt ‘Insert Citation’ functionality here to make use of the Source Manager dialogue box. When your entry is converted into XML, the resources you add to the Further Reading section of the Word template will be automatically generated as a Further Reading list and there will be no confusion with any Citations you have added in the Main Text section of the template (see ‘Citations’ above).
+
+Bibliography
+
+Please do not generate a bibliography for your entry using Word’s inbuilt Bibliography functionality. A bibliography will be generated automatically during the XML conversion.
+
+The Template Sections
+
+The Word template consists of the following sections:
+
+
+
+
+About You
+
+Type your salutation (if applicable) first name, middle name (if applicable) and last name into the top row of the About You table in the relevant cells.
+
+The Salutation cell (to the left of the First Name cell) requires you to select a salutation from a dropdown list. The First Name, Middle Name and Last Name cells require you to type the information in.
+
+Type in your bibliography in the Enter Your Bibliography cell. Please note that there is a 50 word limit for this cell.
+
+Type in your affiliated institution in the Institution cell. Please provide the full name of each  institution you are affiliated with, separated with a | symbol (Shift + \), e.g.
+
+Routledge | Taylor & Francis | Informa 
+
+Your Article
+
+Type the name (or “headword”) of your entry into the Enter the Headword cell. This will be the name of the entry as it appears in the Encyclopedia.
+
+Type any alternative headwords for your entry in the Variant Forms cell. This is only necessary if the subject of your entry may be known to users by different names, e.g. the First World War, the Great War, or Word War I.
+   
+Separate alternative Headwords with the | symbol (Shift + \), e.g.
+
+The First World War | The Great War | Word War I | WW1
+
+Type your Abstract into the Abstract cell. The word limit for your abstract is 10-15% of the total entry length, e.g. 20-30 words for 200-word entries, 50-75 words for 500-word entries, 100-150 words for 1000-word entries, and 200-300 words for 2000-word entries.
+
+Enter the main text of your entry into the Main Text cell. 
+
+You can provide resources for further reading in the Further Reading cell (see ‘Further Reading’).
+
+Submitting your completed entry
+
+When you have completed your entry, save the file as a Word Document. If you want to include any multimedia files make sure that the file names of the multimedia file names match the file names you referenced in the Word template (see ‘Adding Multimedia Files’).
+
+Create a Zipped folder containing the Word document and all the multimedia files, then follow the submitting instructions provided in the email from your Editor.

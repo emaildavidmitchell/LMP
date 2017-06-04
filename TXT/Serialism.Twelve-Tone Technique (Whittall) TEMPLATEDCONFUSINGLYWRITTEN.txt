@@ -1,0 +1,99 @@
+Taylor & Francis – Encyclopedia of Modernism
+
+
+
+About you
+
+[Salutation]
+
+Arnold
+
+[Middle name]
+
+Whittall
+
+
+
+[Enter your biography]
+
+
+
+Kings College London Emeritus
+
+
+
+Your article
+
+Serialism/Twelve-Tone Technique
+
+[Enter any variant forms of your headword – OPTIONAL]
+
+Serialism or the Twelve-Tone Technique is a way of composing music that involves replacing major and minor scales with a fixed ordering of the pitches in the chromatic scale. This generates a structure that, in principle, remains in place throughout the composition in question.
+
+
+
+Prior to the modernist age, the idea that a musical composition should establish a fixed order of pitches, intervals, rhythmic values, and dynamic values would have seemed intolerably restrictive and mechanical. The additional requirement that a composition must maintain specific serial ordering throughout, either through literal repetition or by using any of the possible transpositions of the chosen series (thereby changing the pitch sequence while retaining the interval sequence) would have reinforced such negative conclusions and connotations. In earlier music, such fixed ordering applied only when motifs or themes were stated and literally repeated. Earlier music generally featured an interest more in the transformation and development of multiple, contrasting themes than in the reiteration of a single musical idea. Music preceding modernism made use of a major/minor key system based on a ‘common practice’ of harmonic identities and functions. While distinct from a composition’s thematic material, this gave composers a comprehensive set of musical procedures from which to create coherent thematic processes.
+
+Serialism or the Twelve-Tone Technique is a way of composing music that involves replacing major and minor scales with a fixed ordering of the pitches in the chromatic scale. This generates a structure that, in principle, remains in place throughout the composition in question.
+
+
+
+Prior to the modernist age, the idea that a musical composition should establish a fixed order of pitches, intervals, rhythmic values, and dynamic values would have seemed intolerably restrictive and mechanical. The additional requirement that a composition must maintain specific serial ordering throughout, either through literal repetition or by using any of the possible transpositions of the chosen series (thereby changing the pitch sequence while retaining the interval sequence) would have reinforced such negative conclusions and connotations. In earlier music, such fixed ordering applied only when motifs or themes were stated and literally repeated. Earlier music generally featured an interest more in the transformation and development of multiple, contrasting themes than in the reiteration of a single musical idea. Music preceding modernism made use of a major/minor key system based on a ‘common practice’ of harmonic identities and functions. While distinct from a composition’s thematic material, this gave composers a comprehensive set of musical procedures from which to create coherent thematic processes.
+
+During the first decade of the twentieth century, a small number of radical-minded composers concluded that the ‘common practice’ of using a major/minor key system no longer provided an adequate basis for music that aimed to do more than abjectly imitate the achievements of recent masters like Wagner and Brahms. Aspects of common-practice tonality can be heard in Arnold Schoenberg’s String Quartet No. 2, Op. 10 (1908) alongside music that either expands or suspends tonality altogether in an intensive all-thematic mode sometimes called ‘free atonality.’ Not only does diatonic tonality disappear, but the equally longstanding notion that harmonic dissonance must always resolve into consonance is abandoned in favour of an ‘emancipation of the dissonance,’ meaning — in practice — that consonances need not be used at all. Schoenberg’s next work, Three Piano Pieces, Op. 11 (1909), was entirely within this new style. For several subsequent years, in thrall to an essentially expressionist aesthetic, Schoenberg and his most prominent pupils, Alban Berg and Anton Webern, relished this new freedom, which they saw as an appropriately respectful step forward in the spirit of the remarkable changes that had taken place in music over the past century and a half, from Bach to Beethoven and on to Wagner, Brahms, Liszt, and Mahler. 
+
+
+
+As a teacher as well as a composer, Schoenberg believed that masterworks were the result of a sophisticated interaction between inspiration and discipline. While never advocating for an entirely rule-based atonal or post-tonal ‘composition by numbers’ approach, from 1909 to 1914 Schoenberg developed the belief that the lack of any far-reaching constraints in ‘free atonality’ made it difficult to generate large-scale forms and the coherent musical arguments that underpin those forms. Between 1914 and the early 1920s, the emergence of the ordering principle involving all twelve pitches of the well-tempered chromatic scale became known as ‘the twelve-tone method.’ The materials of a twelve-tone composition comprised a basic or ‘prime’ series form, and the eleven possible transpositions of that series, together with the twelve reversals or retrogrades of the primes, the twelve inversions of the series (by interval, so that, for example, an ascending major third in the prime becomes a descending major third in the inversion), and the twelve retrogrades of those inversions produce a grand total of forty-eight permutations of the twelve chromatic semitones, all involving the same sequence of intervals. By the mid-1920s Schoenberg was using the twelve-tone technique as the basis for the kind of instrumental and vocal compositions that he found difficult to create under the regime of ‘free atonality.’ His Wind Quintet, Op. 26  (1923-24) and the one-act opera Von Heute Auf Morgen (1928-29) demonstrated that the new technique was far from incompatible with traditional compositional genres and musical forms like rondo and sonata (given that these were seen more in terms of thematic and contrapuntal processes than harmonic functions).
+
+
+
+Like Berg and many other pupils of Schoenberg, Anton Webern adopted the twelve-tone method during the 1920s, and applied it to works with traditional or generic titles like symphony, concerto, string quartet, or cantata. Whereas Berg’s twelve-tone works tended to dramatise the tension between tonal and post-tonal elements, his Violin Concerto (1935) actually incorporates a Bach chorale harmonisation as well as an Austrian folk tune. Webern strove to explore twelve-tone techniques in a more concentrated and systematic manner, which underlined the music’s distance from traditional kinds of harmony. In fact, composers during the 1920s or 1930s utilising the twelve-tone method for anything beyond the purely monadic faced a new set of challenges in regards to how far the initial ordering principle could be sustained. 
+
+	
+
+Even if the basic series form was initially inspired by a melody or a motif, there was the strict ordering of pitch and interval provided by the abstract presentation of the ‘prime form’ along with its eleven possible transpositions, and the combination of primes, inversions, retrogrades, and retrograde inversions that the more specialised literature on twelve-tone composition employs. But the interaction of vertical and horizontal sonorities in actual composition inevitably involved many adjustments to such abstract linear ordering, and the challenge of preserving the ordered identity of a work’s twelve-tone series while allowing smaller segments of it to appear in many different orderings. At its best as in works like Schoenberg’s String Quartet no. 4 (1936) and Webern’s Variations for Orchestra, op. 30 (1940), twelve-tone technique embodied a satisfying blend of fixity and flexibility (or, the ordered and the unordered) that was in no way incompatible with the comparable ethos of common-practice tonal music.
+
+
+
+It was exactly this sense of compromise between old and new that prompted initiatives most prominent between 1940 and 1960, including the exploration of the possibility for more systematic, consistent ordering of musical elements. Because twelve-tone composition had already begun to be described, in English, as ‘serial,’ the music of composers Milton Babbitt and others in America (and, for a short time in Europe, the music of Luigi Nono, Pierre Boulez and others), has often been regarded as demonstrating ‘total serialism’ or ‘integral serialism.’ The view that Schoenberg had failed to perceive the full potential of his own invention, and that he preferred a neoclassical aesthetic to the avant-garde, prompted experiments with ordered series forms (sometimes of twelve, and sometimes of fewer elements) for durations, dynamics and modes of articulation. Babbitt’s Composition for Twelve Instruments (1948) and Boulez’s Structures 1A for two pianos (1951-52) demonstrate the radical desire to forge a new beginning that seemed psychologically apt following the horrors of the Second World War. Nevertheless, the post-war emergence of other kinds of musical experimentation, especially those involving chance or aleatory factors, prompted listeners to consider the distinction or choice between the complex mechanisms of serialism, and so-called indeterminacy, as in the work of John Cage.   
+
+
+
+From the 1960s onwards, musical modernism settled into an essentially pluralistic phase that maintained the experimental and avant-garde extremes on either side of a more moderate mainstream. In this, composers as diverse as Elliott Carter, György Ligeti, Harrison Birtwistle, and Wolfgang Rihm worked with the dialogue between ordered and unordered materials in a post-tonal context that reflected differing degrees of awareness and acceptance of the twelve-tone and serial initiatives of their progressive precursors. While post-1960s modernism has, for the most part, not preserved the kind of all-embracing serial pitch procedures pioneered by Schoenberg and Webern, it clearly owes a great deal to those procedures, and the aesthetic and technical principles they embody.
+
+Further reading:
+
+(Boulez)
+
+
+
+ (Babbitt) 
+
+
+
+(Haimo)
+
+
+
+(Bailey)
+
+
+
+(Pople)
+
+
+
+(An Introduction to the Music of Milton Babbitt)
+
+
+
+(Grant)
+
+
+
+(Straus)
+
+
+
+(Whittall)

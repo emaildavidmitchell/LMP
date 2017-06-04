@@ -1,0 +1,112 @@
+1
+
+
+
+Routledge Encyclopaedia of Modernism
+Collated Queries from Stephen Ross/authors/co-editors
+
+What should we do when there are two authors of the entry? There is one field for each of first name, middle name, and last name, and I couldn't get it to accept a hard return. (Though maybe someone else has? Probably this will almost never arise, but I have one like that right now. What I've done for the moment is put one name in First, one in Last, and "and" in the Middle.) 
+From Stephen Ross: As my team work to get all the entries for the Routledge Encyclopedia of Modernism into the templates you've devised, they've come across an issue with entries by more than one author. The template allows only one name in each of the fields for First Name, Middle Name, Last Name. How would you like them to indicate entries that have multiple authors?) See question 9. 
+
+
+
+If subtitles are included, should we keep them or remove them?
+(Answer suggested by Stephen Ross: I think you can keep section headings like the one you example below. They are sometimes very useful, though should really only be used in longer entries.) That’s an editorial call – if they want to keep subtitles they need to use the H1, H2, etc. formatting. 
+
+Routledge Editorial: Section headings are fine, but subheadings should indeed only be used in longer entries to adhere to the encyclopaedic nature of the product. 
+
+
+
+Should we separate each new paragraph with a space (i.e. a blank line), or simply indent, or do neither? (Answer suggested by Stephen Ross: Single-spaced, with a double hard return (a blank line) between paragraphs.) Yes, that’s fine.
+
+
+
+Should we omit, or include, comprehensive lists of the subject's entire corpus? (Answer suggested by Stephen Ross: That depends on the length of the entry. For entries on the order of 1000-2000 words, the full list is fine. For shorter ones, selected lists are better.) Yes, that’s fine.
+
+
+
+Should we, somehow, tag entries that we believe are poorly written? (Answer suggested by Stephen Ross: YES!) That’s fine, as long as that tagging doesn’t come through in the finalised entry submitted to T&F. 
+
+
+
+For entries that are poorly written, should we use our discretion to revise them for greater clarity/flow, or should we just stick to correcting straightforward grammatical errors? (Answer suggested by Stephen Ross: Edit freely. If you do extensive work, let me know and we'll have to send the entry back for final approval by the author. But many of the authors
+
+do not have English as their first language, so there will certainly be entries that have not yet been properly edited. The good news is that those will almost entirely be Literature entries. If you don't feel up to doing the extensive editing, note the file and let me know so I can do
+
+it or have someone else take care of it.) That’s an editorial call, not template related.
+
+Routledge Editorial: yes, by all means revise for cohesion to maintain the academic rigour of the entries. 
+
+
+
+Em-dashes. Spaces before and after (IE: "like—this") or no (IE: "like — this"). That's a pretty specific question, but I'd like to get things consistent sooner rather than later. (Answer suggested by Stephen Ross: As for em-dashes, I like the space before and after and in the absence of any other guideline, that's what we'll do.) That’s fine – as long as it is consistent across all entries.
+
+
+
+[From Jon Johnson, off the back of the above question: Would it be worth, Stephen, to put together a bit of a style guide in GitHub outlining all of these things? I've been putting something similar together for Nick on GitHub, so I could do the same here.] 
+(Stephen Ross reply to this suggestion: Yes, that would be excellently worth it. Please do the style guide asap, Jon, aggregating where you can all the answers to queries and blending with the "instructions for authors" form attached.) Yes, that’s fine.
+
+
+
+
+
+How should we deal with entering composite authors into the template? (From Stephen Ross: Do you mean co-authors? If so, I think you would do one, then a hard return, then the other. But perhaps Andrew has a different take — do you?) For entries with multiple authors, copy and paste the author metadata box, as in the example attached below:
+
+
+
+
+
+
+
+If the term associated with the entry—say, Afrocubismo—appears in the entry itself, should we have it in italics or no? Obviously book and film titles should be in italics, but what of works of music or literary, artistic, or intellectual movements or periods?  (Answer suggested by Stephen Ross: Only italicize titles of stand-alone works (films, books, plays, operas, sculptures, etc.). All else should be kept Roman. ) That’s fine – as long as it is consistent across all entries.
+
+
+
+Do we always use double quotation marks? I've been consistently changing everything from 'term' to "term." Make sense? Thoughts?  (Answer suggested by Stephen Ross: I believe the style guide should have said something about British usage — which means single quotation marks (sorry!) in place of doubles. But find and replace can do wonders.) That’s fine – as long as it is consistent across all entries.
+
+
+
+Can someone remind me how we're dealing with video? I had thought that we were not including it, except as a citation, but film is mentioned in the author instructions, so I want to confirm. (Answer suggested by Stephen Ross: If someone submits video then we’ll have to ask the press how they want that sent to them since file size will become an issue. Deal with it the same way as for images, though, in terms of how to insert it into the entry.) This is specified in the template guidelines under Adding Multimedia Files
+
+
+
+Is it okay to change the heading of "Further Reading" to some variant -- "References and Further Reading" - "Further Reading and Viewing" - etc? (Answer suggested by Stephen Ross: As for Further Reading, that section is determined by the template, as I recall — you just copy and paste the entries under “Further Reading.” I don’t want to begin messing with the template at this point on something like this (though I do see clearly your logic for wanting to do so). My biggest concern right now is that the guy who developed this is no longer on the project, but has moved on. *sigh*) That may be ok, I will check with Dan Barker when I get back next week.
+
+
+
+I've noticed that some entry writers will put other writers, movements, texts, etc in ALL CAPPS (yes, like that). Is this a thing? I've been changing it to regular text, but I'm not sure if this is something the web developers/editors might be using at some point for hyperlinking etc etc. (Answer suggested by Stephen Ross: STUFF IN ALL CAPS SHOULD BE PUT INTO LOWER-CASE. It was an early stylistic tic when we thought it would be a good way to indicate terms needing cross-referencing.) That’s fine – as long as it is consistent across all entries.
+
+
+
+
+
+
+Citations
+
+
+
+ Should the "Further Readings" citations appear in the form of APA Andrew? I think the others have been doing MLA, and that's my preference. One key is to use the citation builder tool in Word. Yes, use the Citation function in Word. Either APA or MLA is fine, as long as it is consistent across all entries.
+
+
+
+Should these citations include acronyms (such as UP for University Press)? (Answer suggested by Stephen Ross: I am not sure this is critically important, but it is acceptable to use acronyms, so I have no issue with it either way. Let's say that for
+consistency's sake we'll go with UP. Yes, but be consistent across all entries.
+
+
+
+Should we try to track down missing information for these citations? (Answer suggested by Stephen Ross: Yes, please. If you can't find it, let me know and I'll email the contributor to ask for the details. Yes, that’s right.
+
+
+
+Should we delete/convert in-text citations (where there is no direct
+quotation)? (Answer suggested by Stephen Ross: Even if there is no direct quotation, please leave the in-text citations but check that the work cited appears in the works cited.) Yes, fine.
+
+
+
+Images etc
+
+Should we use our discretion to select the best photo (if the contributor includes, say, eight profile pics of an author)? Yes. But don't delete the others, as permissions may necessitate using certain pictures over others. Editorial decision, but yes that’s fine.
+
+
+
+Do pdf files, as well as jpg files, convert nicely to HTML? Is one format preferable to the other? Jpgs are preferred.

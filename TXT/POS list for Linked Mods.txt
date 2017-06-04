@@ -1,0 +1,33 @@
+Alphabetical list of part-of-speech tags used in the Penn Treebank Project:
+
+
+
+1.	CC	Coordinating conjunction – e.g., and, but, for, nor, or, so, yet
+
+3.	DT	Determiner – e.g., whose, which
+
+5.	FW	Foreign word
+
+7.	JJ	Adjective – describes a noun
+
+12.	NN	Noun, singular or mass
+
+13.	NNS	Noun, plural
+
+14.	NNP	Proper noun, singular
+
+15.	NNPS	Proper noun, plural
+
+17.	POS	Possessive ending – this is the apostrophe “s” that means something belong’s to someone – e.g., Picasso’s influence. 
+
+18.	PRP	Personal pronoun – e.g., he, she, they
+
+19.	PRP$	Possessive pronoun – e.g., his, her
+
+27.	VB	Verb, base form – e.g., run, write, paint, marry
+
+28.	VBD	Verb, past tense – e.g., ran, wrote, painted, married
+
+29.	VBG	Verb, gerund or present participle – e.g., running, writing, painting, marrying
+
+30.	VBN	Verb, past participle – e.g., run, written, painted, married

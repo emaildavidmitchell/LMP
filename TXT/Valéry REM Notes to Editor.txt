@@ -1,0 +1,107 @@
+Notes regarding the paratextuals
+
+
+
+All documents and photos are public domain, although authorizations are surely needed for commercial use. I understand that Rutledge will take care of obtaining them. If told that contacting the ayant-droit is required beforehand (likely in the case of the drawings at least), please let me know.
+
+
+
+About the “captions”: I mean the information the reader would obtain when hovering the mouse over the paratextual, as described in REM’s Instructions for Authors.
+
+
+
+In the case of the three manuscript pages, it would be necessary to insert them in very small format, shrunk to fit alongside the 4th paragraph. The caption obtained by hovering the mouse could conclude with “click to expand” to the full size document. These manuscripts may only be vaguely interesting for the curious general reader, but are informative for the researcher and chosen in support of the paragraph I wrote.
+
+
+
+About Valéry’s voice recording: I am waiting to receive a copy so that I can extract a short clip. In terms of content, these recordings don’t offer anything new, but I thought a clip might be interesting to make known their existence and, more importantly, because of the peculiarity of Valéry’s voice and diction. If a caption is desired for this I would propose quoting Valéry:
+
+« … ma voix, faible, sans résonances, bredouillante hâtive … »
+
+(+ Quote reference.
+
++ Recording source and copyright)
+
+
+
+
+
+Paratextuals
+
+Document:	PV autoportrait.jpg
+
+Placement:	Right of the first paragraph (The thumbnail)
+
+Caption:	Self-portrait, December 1935.
+
+		From the notebook “
+
+		(+ copyright info)
+
+Source:	Bibliothèque Nationale de France
+
+
+
+Document:	PV chez Monnier.jpg
+
+Placement:	Around the third paragraph (2nd § of the main text)
+
+Caption:	Paul Valéry reading “Mon Faust”
+
+at Adrienne Monnier, March 1941.
+
+(+ copyright info)
+
+Source:	Gallimard
+
+
+
+Document:	PV académicien.jpg
+
+Placement:	Around the third paragraph (2nd § of the main text)
+
+Caption:	Paul Valéry’s induction in the Académie Française in 1927 (elected in 1925)
+
+Source:	Bibliothèque Nationale de France
+
+
+
+Document:	PV recording
+
+Placement:	Clicking on the underlined word “reading” in the third paragraph.
+
+(Document and copyright info to follow)
+
+
+
+Document:	PV vers anciens 146r
+
+Placement:	First alongside the fourth paragraph
+
+Caption:	Manuscript page of unused verse from the 1897-1900 period
+
+from the Album des vers anciens draft papers
+
+Source: BnF, Vers Anciens II
+
+(If permitted, you may wish to end the caption with the following permanent link, for viewing all pages)		http://gallica.bnf.fr/ark:/12148/btv1b6000195h
+
+Document:	PV La JP brouillon 1r
+
+Placement :	Second alongside the fourth paragraph
+
+Caption:	Manuscript page 1r° in La Jeune Parque draft papers
+
+		Source : BnF. La Jeune Parque. V
+
+(If permitted, you may wish to end the caption with the following permanent link, for viewing all pages)		http://gallica.bnf.fr/ark:/12148/btv1b6000165c
+
+
+
+Document:	PV La JP brouillon 31r
+
+Placement :	Third alongside the fourth paragraph
+
+Caption:	Manuscript page 31r° in La Jeune Parque draft papers
+
+		Source : BnF. La Jeune Parque. V

@@ -1,0 +1,180 @@
+
+Serialism/Twelve-Tone Technique
+
+Arnold Whittall
+
+A way of composing music that involves replacing major and minor scales
+with a fixed ordering of the pitches of the chromatic scale.  This
+generates a structure that, in principle, remains in place throughout the
+composition in question.
+
+Pre-history. Before the modernist age the idea that a musical composition
+should establish a fixed order of pitches and intervals and possibly also
+of other elements like rhythmic values and dynamic levels  would have
+seemed intolerably restrictive and mechanical: and the additional
+requirement that a composition maintain that serial ordering throughout,
+either through literal repetition or through using any of the possible
+transpositions of the chosen series (which thereby changes the pitch
+sequence while retaining the interval sequence) would have reinforced those
+negative conclusions.  In earlier music such fixed ordering applied only
+when motifs or themes were stated and literally repeated: but in earlier
+music there was usually more interest in the transformation and development
+of themes, and in their interaction with different, contrasting themes,
+than in the reiteration of a single musical idea.  This was because music
+using the major/minor key system was based on a common practice of
+harmonic identities and functions: and this, while distinct from a
+compositions thematic material, gave composers a comprehensive set of
+musical procedures from which to create a coherent thematic process.
+
+      During the first decade of the twentieth century a small number of
+radically-minded composers came to believe that this common practice no
+longer provided an adequate basis for music that aimed to do more than
+abjectly imitate the achievements of such recent masters as WAGNER and
+BRAHMS.  In ARNOLD SCHOENBERGS STRING QUARTET NO. 2, Op. 10 (1908),
+aspects of common-practice tonality can be heard alongside music which
+either expands or suspends tonality altogether, in a kind of intensively
+all-thematic writing that is sometimes called free atonality.  Not only
+did diatonic tonality disappear, but the equally longstanding tradition
+that harmonic dissonance must always resolve onto consonance was abandoned
+in favour of an emancipation of the dissonance, meaning in practice that
+consonances need not be used at all.  SCHOENBERGs next work, the THREE
+PIANO PIECES, Op. 11 (1909), is entirely within this new style, and for
+several subsequent years, in thrall to an essentially expressionist
+aesthetic, SCHOENBERG and his most prominent pupils, ALBAN BERG and ANTON
+WEBERN, relished this new freedom, which they saw as an appropriately
+respectful step forward in the spirit of the remarkable changes that had
+taken place in music over the past century and a half, from BACH to
+BEETHOVEN and on to WAGNER, BRAHMS, LISZT and MAHLER.
+
+The first phase.  As teacher as well as composer, SCHOENBERG believed that
+masterworks were the result of a sophisticated interaction between
+inspiration and discipline.  He never advocated an entirely rule-based kind
+of atonal or post-tonal composition by numbers: but during the years
+between 1909 and 1914, he came to believe that  the lack of any far-
+reaching constraints in free atonality was making it difficult to
+generate large-scale forms and the coherent musical arguments that must
+still underpin those forms.  Between 1914 and the early 1920s it is
+possible to trace the emergence of the ordering principle that  because it
+came to involve all twelve pitches of the well-tempered chromatic scale 
+became known as the twelve-tone method. The materials of a twelve-tone
+composition comprised a basic or prime series form, and the eleven
+possible transpositions of that series, together with the twelve reversals
+or retrogrades of the primes, the twelve inversions of the series (by
+interval, so that for example an ascending major third in the prime becomes
+a descending major third in the inversion) and the twelve retrogrades of
+the inversions, producing a grand total of forty-eight permutations of the
+twelve chromatic semitones, all involving the same sequence of intervals.
+By the mid-1920s SCHOENBERG was using the twelve-tone technique as the
+basis for the kind of substantial instrumental and vocal compositions that
+he had found difficult to create under the regime of free atonality.  His
+WIND QUINTET, Op. 26  (1923-4) and the one-act opera VON HEUTE AUF MORGEN
+(1928-9) show that the new technique was far from incompatible with
+traditional compositional genres and musical forms like rondo and sonata,
+provided these were seen more in terms of thematic and contrapuntal
+processes than of harmonic functions.
+
+Consolidation.  Like Berg and many other SCHOENBERG pupils, ANTON WEBERN
+adopted the twelve-tone method during the 1920s, and applied it in works
+with such traditional generic titles as symphony, concerto, string quartet
+and cantata.  But whereas BERGs twelve-tone works tended to dramatise the
+tension that could be sensed between tonal and post-tonal elements  his
+VIOLIN CONCERTO (1935) actually incorporates a BACH chorale harmonization
+as well as an Austrian folk tune  WEBERN strove to explore twelve-tone
+techniques in a more concentrated and systematic manner, which underlined
+the musics distance from traditional kinds of harmony.  In fact, any
+composer in the 1920s or 1930s using the twelve-tone method for other than
+purely monodic music experienced a completely new set of challenges to do
+with how far the initial ordering principle could be sustained.
+
+      Pre-compositionally  even if the basic series form was initially
+inspired by a melody or a motif - there was the strict ordering of pitch
+and interval provided by the abstract presentation of the prime form and
+its eleven possible transpositions as set out in the kind of matrix
+combining primes, inversions, retrogrades and retrograde inversions that
+the more specialised literature on twelve-tone composition employs.  But
+the interaction of vertical and horizontal sonorities in actual composition
+inevitably involved many adjustments to such abstract linear ordering, and
+the challenge became that of preserving the ordered identity of a works
+twelve-tone series while allowing smaller segments of it to appear in many
+different orderings.  At its best, in such works as SCHOENBERGs STRING
+QUARTET no. 4 (1936) and WEBERNs VARIATIONS FOR ORCHESTRA, op. 30 (1940),
+twelve-tone technique embodies a satisfying blend of fixity and flexibility
+ the ordered and the unordered - which is in no way incompatible with
+the comparable ethos of common- practice tonal music.
+
+Expansion. It was exactly this sense of compromise between old and new
+which prompted initiatives, most prominent between 1940 and 1960, to
+explore the possibility for more systematic, consistent ordering of musical
+elements; and because twelve-tone composition had already begun to be
+described, in English, as serial, the music of MILTON BABBITT and his
+followers in America, and  for a relatively short time  LUIGI NONO,
+PIERRE BOULEZ and many other younger progressives in Europe  has often
+been regarded as demonstrating total serialism or integral serialism.
+The view that SCHOENBERG had failed to perceive the full potential of his
+own invention, preferring an essentially neoclassical aesthetic to
+something wholeheartedly avant-garde, prompted experiments with ordered
+series forms (sometimes of twelve, sometimes fewer elements) for durations,
+dynamics and modes of articulation.  BABBITTs COMPOSITION FOR TWELVE
+INSTRUMENTS (1948) and Boulezs STRUCTURES 1A for two pianos (1951-2) are
+representative of this radical desire to make the kind of new start that
+seemed psychologically right after the horrors of the Second World War.
+Nevertheless, the post-war emergence of other kinds of musical experiment,
+especially those involving chance or aleatory factors, suggested that, for
+the listener, there might be little to choose between the complex
+mechanisms of serialism and so-called indeterminacy, as in the work of JOHN
+CAGE.
+
+      From the 1960s onwards, musical modernism settled into an essentially
+pluralistic phase which maintained experimental and avant-garde extremes
+either side of a more moderate mainstream.  In this, composers as diverse
+as ELLIOTT CARTER, GYRGY LIGETI, HARRISON BIRTWISTLE and WOLFGANG RIHM
+worked with the kind of dialogue between ordered and unordered materials in
+a post-tonal context that reflected differing degrees of awareness of, and
+acceptance of, the twelve-tone and serial initiatives of their progressive
+precursors.  Even though post-1960s modernism has not on the whole
+preserved the kind of all-embracing serial pitch procedures pioneered by
+Schoenberg and Webern, it clearly owes a great deal to those procedures,
+and the aesthetic and technical principles they embody.
+
+
+
+Further reading
+
+Boulez, Pierre, Conversations with Clestin Delige (London, 1976). Boulez
+outlines the evolution of his compositional and aesthetic thinking.
+
+Babbitt, Milton, Words about Music (Madison, 1987).  An absorbing series of
+informal lectures which explains the motivation behind attempts to develop
+serial principles beyond their basis in Schoenberg and Webern.
+
+Haimo, Ethan, Schoenbergs Serial Odyssey: The Evolution of his Twelve-Tone
+Method, 1914-1928. (Oxford, 1990).  An authoritative account of the sources
+through which the emergence of the twelve-tone method out of free
+atonality can be traced.
+
+Bailey, Kathryn, The Twelve-Note Music of Anton Webern (Cambridge, 1991).
+A detailed technical exposition of Weberns procedures in his twelve-tone
+compositions.
+
+Pople, Anthony, Berg: Violin Concerto (Cambridge, 1991).  A wide-ranging
+exploration of what is probably the best-known twelve-tone composition from
+the inter-war years.
+
+Mead, Andrew, An Introduction to the Music of Milton Babbitt (Princeton,
+1994).  The most detailed introduction to the compositional processes of
+the American pioneer of total serialism.
+
+Grant, M. J., Serial Music, Serial Aesthetics: Compositional Theory in Post-
+War Europe (Cambridge, 2001).  An exploration of the historical and
+intellectual context within which serial composition emerged in Europe
+during the 1950s.
+
+Straus, Joseph N., Stravinskys Late Music (Cambridge, 2001).  Demonstrates
+how Stravinsky adoption of serialism after 1950 involved adjustments to
+earlier twelve-tone techniques while retaining elements of contact with his
+earlier style.
+
+Whittall, Arnold, Introduction to Serialism (Cambridge, 2008).  A
+comprehensive technical and historical introduction to the twelve-tone
+method and to serialism.
+

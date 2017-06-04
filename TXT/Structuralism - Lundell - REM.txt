@@ -1,0 +1,29 @@
+Structuralism
+
+
+
+Structuralism, generally described, is a twentieth-century intellectual movement associated with linguistic studies in Europe, despite its vast applicability and many adherents. An initial aim of structural linguistics was to investigate—in greater detail than previously—the way language functions as a network of signification. Structuralism’s goal also typically derives from the question whether universal truth can be revealed in this network in ways that define the constitution of thought. Structuralism focused on the whole of language, the “structure” of the totality, over its individual parts or their historical development. The principles of structuralism and its later transformations found widespread application outside of linguistics, particularly in anthropology, sociology, literary studies, semiotics, film, musicology, psychology, and philosophy.
+
+
+
+Ferdinand de Saussure’s Course in General Linguistics (1916), a compilation produced by his students of Saussure’s lectures a decade earlier, is considered to be the foundational text for the academic formalization of structuralism. Saussure questioned the historical approaches to understanding language that had ruled the field of language study before him. He posited a new understanding of language that emphasized both its fluid, subjective nature in individual speech acts (parole) as well as the very slowly changing system of relations that made up a given language (langue). Language (langage) was both “diachronic,” in that it eventually changed in time through use, and “synchronic,” in that it was governed by a relatively static set of relations at any given time. And Saussure was far more interested in the later problem than in the former. Saussure argued that the relation between the “sound image” (signifier) and the conceptual meaning (significant) of any word is arbitrary. Each signifier can only be recognized by the subtle differences in sound that distinguish it from other signifiers with a language. These different yet related signifiers thus comprise a structure of sound images. Every language is in the end a structure that determines the possibilities of individual speech acts. The spoken elements of this structure are coupled with written symbols.
+
+
+
+Saussure suggested that his inquiries into language might be applicable more generally to the production of meaning in other social spheres. In post-WWII New York, the émigré literary critic Roman Jakobson described Saussure’s ideas about language to the émigré anthropologist Claude Lévi-Strauss, who imagined a structural approach to anthropology. Lévi-Strauss argued in his memoir Tristes Tropiques (1955) that civilization has not changed the essential (mathematical or structural) composition of the human mind, which he admitted was in effect a kind of Kantianism without a subject. Mikhail M. Bakhtin’s work reevaluated literature from a socio-linguistic standpoint, in which the novel, for example, could be defined by the interpenetration of different paroles. Jacques Lacan’s elaboration of Freud transformed the latter’s ideas about instinctual life into a problem of language, so that the Father’s phallus is in fact the Father’s “non.” In S/Z (1970), Roland Barthes maps out the “codes” in a given story in a way that constitutes the structural nature of storytelling itself.
+
+Despite its influence, critics attacked structuralism in the later part of the twentieth century as essentialist and limited. Some, called “poststructuralists,” acknowledged their debt to the movement but focused on the fact that no “structure” could ever be a closed system (see especially Jacques Derrida). Others, notably Noam Chomsky in linguistics, emphasized the “nativist” or Kantian element in language in ways that Saussure had not, so that language depended much more on innate faculties of mind. But Chomsky also argued that the innate “deep structure” of language allowed it to be “generative,” hence producing an infinite combination of linguistic possibilities out of a discernable structure. Much of Jean Genette’s work has yet to be translated from French but several of his books suggest that a conception of the hypertext, for instance, can elaborate texts as relational objects, informed by a system of references and repetitions with differences, rather than as static, stand-alone objects.
+
+
+
+
+
+Bibliography: Dosse, Francois. History of Structuralism, Vols. 1-2. Minneapolis:  U of Minnesota P, 1997.
+
+
+
+
+
+Michael James Lundell
+
+Independent Scholar
