@@ -3,20 +3,7 @@
 
 import nltk, re, pprint
 from nltk.corpus import conll2000
-from itertools import cycle
 
-class UnigramChunker(nltk.ChunkParserI):
-	def __init__(self, train_sents):
-		train_data = [[(t,c) for w,t,c in nltk.chunk.tree2conlltags(sent)] for sent in train_sents]
-		self.tagger = nltk.UnigramTagger(train_data)
-
-	def parse(self, sentence):
-		pos_tags = [pos for (word,pos) in sentence]
-		tagged_pos_tags = self.tagger.tag(pos_tags)
-		chunktags = [chunktag for (pos,chunktag) in tagged_pos_tags]
-		conlltags = [(word, pos, chunktag) for ((word,pos),chunktag) in zip(sentence, chunktags)]
-		return conlltags
-		#return nltk.chunk.conlltags2tree(conlltags)
 
 
 class POSTagger():
@@ -34,33 +21,15 @@ class POSTagger():
 		self.tagged_text = sentences
 
 train_sents = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
-unigram_chunker = UnigramChunker(train_sents)
 pos_tagger = POSTagger("./Abbey Theatre.txt")
 
-chunked_doc = [unigram_chunker.parse(sent) for sent in pos_tagger.tagged_text]
-#chunked_doc = [nltk.chunk.tree2conlltags(sent) for sent in pos_tagger.tagged_text]
 
-nes = []
-for sent in chunked_doc:
-	phrase = []
-	for i in range(len(sent)):
-		w,t,c = sent[i]
-		if len(phrase) == 0 and c == "B-NP":
-			phrase.append(w)
-		elif len(phrase) > 0 and c == "B-NP":
-			nes.append(phrase)
-			phrase = [w]
-		elif len(phrase) > 0 and c == "I-NP":
-			phrase.append(w)
-		elif len(phrase) > 0:
-			nes.append(phrase)
-			phrase = []
+for i in pos_tagger.tagged_text:
+	print (nltk.ne_chunk(i))
 
-		if (i == len(sent)-1) and len(phrase) > 0:
-			nes.append(phrase)
 
-for i in nes:
-	print i
+
+
 
 
 
